@@ -13,13 +13,13 @@ It will also provide you with a shopping list based on your choices - so you kno
 Clone the project
 
 ```bash
-  git clone https://github.com/mezzDavies/nc-final-project-frontend
+  git clone https://github.com/jothwas/planet-scran-it
 ```
 
 Go to the project directory
 
 ```bash
-  cd nc-final-project-frontend
+  cd planet-scran-it
 ```
 
 Install dependencies
